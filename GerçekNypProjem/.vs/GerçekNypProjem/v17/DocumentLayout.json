@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\Ger\u00E7ekNypProjem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2316A65B-A35A-4E4B-9753-21A40F3ACBDB}|MusteriTakip.UI.csproj|c:\\users\\casper\\desktop\\c# projelerim,\\ger\u00E7eknypprojem\\giri\u015Fekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2316A65B-A35A-4E4B-9753-21A40F3ACBDB}|MusteriTakip.UI.csproj|solutionrelative:giri\u015Fekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2316A65B-A35A-4E4B-9753-21A40F3ACBDB}|MusteriTakip.UI.csproj|c:\\users\\casper\\desktop\\c# projelerim,\\ger\u00E7eknypprojem\\giri\u015Fekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2316A65B-A35A-4E4B-9753-21A40F3ACBDB}|MusteriTakip.UI.csproj|solutionrelative:giri\u015Fekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706EBFBF-8084-4F2C-B3CB-ECAAA442D2F8}|..\\MusteriTakip.ENTITY\\MusteriTakip.DOMAIN.csproj|c:\\users\\casper\\desktop\\c# projelerim,\\musteritakip.entity\\hizmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706EBFBF-8084-4F2C-B3CB-ECAAA442D2F8}|..\\MusteriTakip.ENTITY\\MusteriTakip.DOMAIN.csproj|c:\\users\\casper\\desktop\\c# projelerim,\\musteritakip.entity\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706EBFBF-8084-4F2C-B3CB-ECAAA442D2F8}|..\\MusteriTakip.ENTITY\\MusteriTakip.DOMAIN.csproj|c:\\users\\casper\\desktop\\c# projelerim,\\musteritakip.entity\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706EBFBF-8084-4F2C-B3CB-ECAAA442D2F8}|..\\MusteriTakip.ENTITY\\MusteriTakip.ENTITY.csproj|c:\\users\\casper\\desktop\\c# projelerim,\\musteritakip.entity\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AF1DF8-2DB3-4F91-B817-94A9D019ED85}|..\\MusteriTakip.DAL\\MusteriTakip.DAL.csproj|c:\\users\\casper\\desktop\\c# projelerim,\\musteritakip.dal\\kullanicidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AF1DF8-2DB3-4F91-B817-94A9D019ED85}|..\\MusteriTakip.DAL\\MusteriTakip.DAL.csproj|c:\\users\\casper\\desktop\\c# projelerim,\\musteritakip.dal\\hizmetdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FB77B0-B8B9-468A-925D-25A17608619E}|..\\MusteriTakip.BLL\\MusteriTakip.BLL.csproj|c:\\users\\casper\\desktop\\c# projelerim,\\musteritakip.bll\\kullanicibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FB77B0-B8B9-468A-925D-25A17608619E}|..\\MusteriTakip.BLL\\MusteriTakip.BLL.csproj|c:\\users\\casper\\desktop\\c# projelerim,\\musteritakip.bll\\hizmetbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\MusteriTakip.ENTITY\\Kullanici.cs",
+              "RelativeDocumentMoniker": "..\\MusteriTakip.ENTITY\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\MusteriTakip.ENTITY\\Kullanici.cs",
+              "RelativeToolTip": "..\\MusteriTakip.ENTITY\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:13:05.642Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "giri\u015Fekrani.cs",
+              "DocumentMoniker": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\Ger\u00E7ekNypProjem\\giri\u015Fekrani.cs",
+              "RelativeDocumentMoniker": "giri\u015Fekrani.cs",
+              "ToolTip": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\Ger\u00E7ekNypProjem\\giri\u015Fekrani.cs",
+              "RelativeToolTip": "giri\u015Fekrani.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:44:36.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\MusteriTakip.ENTITY\\Personel.cs",
+              "RelativeDocumentMoniker": "..\\MusteriTakip.ENTITY\\Personel.cs",
+              "ToolTip": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\MusteriTakip.ENTITY\\Personel.cs",
+              "RelativeToolTip": "..\\MusteriTakip.ENTITY\\Personel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:06:16.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KullaniciDAL.cs",
+              "DocumentMoniker": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\MusteriTakip.DAL\\KullaniciDAL.cs",
+              "RelativeDocumentMoniker": "..\\MusteriTakip.DAL\\KullaniciDAL.cs",
+              "ToolTip": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\MusteriTakip.DAL\\KullaniciDAL.cs",
+              "RelativeToolTip": "..\\MusteriTakip.DAL\\KullaniciDAL.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:05:59.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KullaniciBLL.cs",
+              "DocumentMoniker": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\MusteriTakip.BLL\\KullaniciBLL.cs",
+              "RelativeDocumentMoniker": "..\\MusteriTakip.BLL\\KullaniciBLL.cs",
+              "ToolTip": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\MusteriTakip.BLL\\KullaniciBLL.cs",
+              "RelativeToolTip": "..\\MusteriTakip.BLL\\KullaniciBLL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:05:45.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hizmet.cs",
+              "DocumentMoniker": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\MusteriTakip.ENTITY\\Hizmet.cs",
+              "RelativeDocumentMoniker": "..\\MusteriTakip.ENTITY\\Hizmet.cs",
+              "ToolTip": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\MusteriTakip.ENTITY\\Hizmet.cs",
+              "RelativeToolTip": "..\\MusteriTakip.ENTITY\\Hizmet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:03:36.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HizmetDAL.cs",
+              "DocumentMoniker": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\MusteriTakip.DAL\\HizmetDAL.cs",
+              "RelativeDocumentMoniker": "..\\MusteriTakip.DAL\\HizmetDAL.cs",
+              "ToolTip": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\MusteriTakip.DAL\\HizmetDAL.cs",
+              "RelativeToolTip": "..\\MusteriTakip.DAL\\HizmetDAL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:02:49.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HizmetBLL.cs",
+              "DocumentMoniker": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\MusteriTakip.BLL\\HizmetBLL.cs",
+              "RelativeDocumentMoniker": "..\\MusteriTakip.BLL\\HizmetBLL.cs",
+              "ToolTip": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\MusteriTakip.BLL\\HizmetBLL.cs",
+              "RelativeToolTip": "..\\MusteriTakip.BLL\\HizmetBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:02:40.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "giri\u015Fekrani.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\Ger\u00E7ekNypProjem\\giri\u015Fekrani.cs",
+              "RelativeDocumentMoniker": "giri\u015Fekrani.cs",
+              "ToolTip": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\Ger\u00E7ekNypProjem\\giri\u015Fekrani.cs [Tasar\u0131m]",
+              "RelativeToolTip": "giri\u015Fekrani.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T11:30:46.042Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\MusteriTakip.ENTITY\\Kullanici.cs",
+              "RelativeDocumentMoniker": "..\\MusteriTakip.ENTITY\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\casper\\Desktop\\C# Projelerim,\\MusteriTakip.ENTITY\\Kullanici.cs",
+              "RelativeToolTip": "..\\MusteriTakip.ENTITY\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:06:13.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
